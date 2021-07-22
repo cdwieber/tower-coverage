@@ -1,0 +1,14 @@
+{
+    "name": "cgsmith/gigacity",
+    "type": "project",
+    "license": "GPL v2",
+    "require": {
+        "cmb2/cmb2": "^2.9",
+        "vlucas/phpdotenv": "^5.3"
+    },
+    "autoload": {
+        "psr-4": {
+            "Gigacity\\": "src"
+        }
+    }
+}
